@@ -90,7 +90,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(/images/botella\ y\ copa.jpg);
+    ,url(./images/botella\ y\ copa.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -111,7 +111,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(/images/vino\ blanco.jpeg);
+    ,url(./images/vino\ blanco.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -132,7 +132,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(/images/vino\ mesa.jpg);
+    ,url(./images/vino\ mesa.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -152,7 +152,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(/images/vino\ mesa.jpg);
+    ,url(./images/vino\ mesa.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -406,7 +406,7 @@ footer .container{
     }
 
     #vinos-argentinos .img-container{
-        background-image: url(/images/logo1.jpg);
+        background-image: url(./images/logo1.jpg);
         background-size: cover;
         background-position: center center;
         height: 500px;
