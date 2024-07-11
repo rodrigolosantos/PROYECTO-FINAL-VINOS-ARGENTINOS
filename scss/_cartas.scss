@@ -1,0 +1,27 @@
+
+.carta {
+	&:first-child {
+		background-image: linear-gradient( 0deg, black, );
+	}
+	&:nth-child(2) {
+		background-image: linear-gradient( 0deg, black, );
+	}
+	&:nth-child(3) {
+		background-image: linear-gradient( 0deg, black, );
+	}
+}
+.carta-catalogo1 {
+	&:nth-child(3) {
+		background-image: linear-gradient( 0deg, black, );
+	}
+}
+.carta-catalogo2 {
+	&:nth-child(3) {
+		background-image: linear-gradient( 0deg, black, );
+	}
+}
+.carta-maridaje {
+	&:nth-child(3) {
+		background-image: linear-gradient( 0deg, black, );
+	}
+}

@@ -1,0 +1,24 @@
+#Bodegas {
+    background-color: rgb(10,10,10);
+    color: white;
+    text-align: center;
+    display: flex
+}
+
+#Bodegas .container{
+    padding: 150px 15px;
+    
+}
+
+#Bodegas h2{
+    margin-top: 0;
+    font-size:large;
+}
+
+#Bodegas p{
+    display: flex;
+}
+
+#Bodegas .carta{
+    @include carta-pro
+}

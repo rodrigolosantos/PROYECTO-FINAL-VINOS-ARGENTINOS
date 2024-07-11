@@ -1,0 +1,38 @@
+#pro {
+    background-color: rgb(10,10,10);
+    color: white;
+    text-align: center;
+    display: flex
+}
+
+#pro .container{
+    padding: 150px 15px;
+    
+}
+
+#pro h2{
+    margin-top: 0;
+    font-size:large;
+}
+
+#pro img{ width: 100%;}
+#pro p{
+    display: flex;
+}
+
+#pro .carta{
+  @include carta-pro;
+}
+
+#pro .carta-copas{
+ ;
+}
+
+#pro .carta-maridaje{
+    @include carta-pro;
+}
+#pro .carta-catalogo1{
+    @include carta-pro;}
+
+    #pro .carta-catalogo2{
+    @include carta-pro;}
