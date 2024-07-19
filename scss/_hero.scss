@@ -1,48 +1,11 @@
-$color_1: white;
-$color_2: beige;
+
 
 #hero {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	flex-direction: column;
-	height: 90vh;
-	background-image: linear-gradient( 0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5) ) ,url(../images/botella\ y\ copa.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center center;
-	h1 {
-		color: $color_1;
-	}
+	@include hero-pro
 }
 #hero-productos {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	flex-direction: column;
-	height: 90vh;
-	background-image: linear-gradient( 0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5) ) ,url(../images/vino\ blanco.jpeg);
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center center;
-	h1 {
-		color: $color_1;
-	}
+@include hero-pro
 }
 #hero-catalogo {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	flex-direction: column;
-	height: 90vh;
-	background-image: linear-gradient( 0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5) ) ,url(../images/vino\ mesa.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center center;
-	h1 {
-		color: $color_2;
-	}
+@include hero-pro
 }
