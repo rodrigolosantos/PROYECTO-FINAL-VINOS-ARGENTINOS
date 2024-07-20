@@ -39,17 +39,17 @@ button:hover{
 }
 
 .container{
-  max-width: 1400px;
+  max-width: auto;
   margin: auto;
+
 }
 
 .color-acento{ color:blueviolet; }
 
 header{
-  background-color: rgb(245,245,245);
+  background-color: white
   
 }
-
 header .logo{
   margin: 0;
   padding: 25px 30px;
