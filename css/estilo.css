@@ -43,9 +43,11 @@ button:hover{
   margin: auto;
 
 }
-.container ul img:hover {border-radius: 50%;
+.escarapela:hover {
   -webkit-transform: rotate(360deg);
 transition: 1s;
+border-radius: 50%;
+margin: auto;
 
 }
 
