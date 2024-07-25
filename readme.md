@@ -36,4 +36,4 @@ Se utiliza (RESPONSIVE CSS - Media Queries)
 Pimer proyecto de desarrollo web coderhouse 2024
 
 Link del proyecto
-https://rodrigolosantos.github.io/segunda.losantos/
+https://github.com/rodrigolosantos/PROYECTO-FINAL-VINOS-ARGENTINOS.git
