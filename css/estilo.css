@@ -239,28 +239,28 @@ header a:hover{
 }
 
 
-#Bodegas {
+#bodegas {
   background-color: rgb(10,10,10);
   color: white;
   text-align: center;
   display: flex
 }
 
-#Bodegas .container{
+#bodegas .container{
   padding: 150px 15px;
   
 }
 
-#Bodegas h2{
+#bodegas h2{
   margin-top: 0;
   font-size:large;
 }
 
-#Bodegas p{
+#bodegas p{
   display: flex;
 }
 
-#Bodegas .carta{
+#bodegas .carta{
   background-position: center center;
   background-size: cover;
   margin: 5px;
@@ -425,25 +425,25 @@ footer .container{
       width: 400px; 
   }
 
-  #Bodegas .pro{
+  #bodegas .pro{
       display: flex;
       justify-content: center;
   }
 
-  #Bodegas p{
+  #bodegas p{
       display: block;
       margin-bottom: 30px;
   }
 
-  #Bodegas h2{
+  #bodegas h2{
       font-size: 4em;
   }
 
-  #Bodegas h3{
+  #bodegas h3{
       margin-top: 0;
   }
 
-  #Bodegas .carta{
+  #bodegas .carta{
       padding: 15px;
       background-size: 100% 150px;
       background-repeat: no-repeat;
