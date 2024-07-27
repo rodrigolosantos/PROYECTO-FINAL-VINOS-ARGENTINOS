@@ -35,7 +35,7 @@ Se utiliza (RESPONSIVE CSS - Media Queries)
 -	 Rodrigo F.J.LOSANTOS
 Pimer proyecto de desarrollo web coderhouse 2024
 
-Link del proyecto:
+•Link del proyecto:
 https://github.com/rodrigolosantos/PROYECTO-FINAL-VINOS-ARGENTINOS.git
-link de netlify:
+•link de netlify:
 https://vinosargentinos.netlify.app/
